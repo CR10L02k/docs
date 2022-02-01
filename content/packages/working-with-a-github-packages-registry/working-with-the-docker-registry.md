@@ -17,6 +17,7 @@ versions:
 shortTitle: Docker registry
 ---
 
+
 <!-- Main versioning block. Short page for dotcom -->
 {% ifversion fpt or ghec %}
 
